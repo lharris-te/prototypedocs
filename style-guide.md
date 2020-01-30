@@ -1,4 +1,4 @@
-# Style Guide
+# Markdown Formatting Guide
 
 ## Heading One
 
@@ -96,8 +96,6 @@ This is definitely a warning.
 {% hint style="success" %}
 This is a checkmark to confirm something works.
 {% endhint %}
-
-{% page-ref page="sandbox/what-is-an-account-group.md" %}
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
